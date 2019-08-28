@@ -17,8 +17,6 @@ public class AccountServiceImpl implements AccountService {
 
     @Override
     public Map<String, Object> getOpenId(String code, String APPID, String APPSecret) {
-        
-
 
 
         return null;
