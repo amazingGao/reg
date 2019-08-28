@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 
     @Autowired
-    FUservice fUservice;
+    FUservice fUservice ;
 
     @RequestMapping("/getAA")
     @ResponseBody
